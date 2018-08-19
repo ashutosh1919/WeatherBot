@@ -1,0 +1,14 @@
+{
+  "features": [
+    "intent_greet",
+    "intent_goodbye",
+    "intent_inform",
+    "slot_location_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_utter_ask_location",
+    "prev_action_weather"
+  ]
+}
